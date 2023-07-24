@@ -1,7 +1,14 @@
-<h1 align="center">Hi 👋, I'm Paul</h1>
+<h1 align="center">
+  
+  <img src="https://gifdb.com/images/high/can-t-wait-peppa-pig-qekbsb9mdz80xjx2.gif" width="120" height="120" title="i like peppa pig"></img>
+  
+  Hi 👋, I'm Paul
+  
+</h1>
 
 ## 🚀 About Me
 I'm an aspiring programmer from Poland. I love tech-related stuff.
+
 <h2 align="left">🛠 Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
