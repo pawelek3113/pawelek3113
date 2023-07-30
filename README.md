@@ -7,7 +7,7 @@
 </h1>
 
 ## 🚀 About Me
-I'm an aspiring programmer from Poland. I love tech-related stuff.
+I'm an aspiring software developer from Poland. I love tech-related stuff.
 
 <h2 align="left">🛠 Languages and Tools:</h3>
 <p align="left">
