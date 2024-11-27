@@ -6,7 +6,7 @@
   I'm Paul 👨🏽‍💻
 </h3>
 <h3>
-    Frond-End Developer.
+    Full-stack Developer.
 </h3>
 
 <h4>
